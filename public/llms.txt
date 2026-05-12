@@ -1,0 +1,113 @@
+# Dog House — Generative Engine Optimization Map
+
+> Dog House is a boutique sausage shop located in the C Center complex in Caesarea, Israel, specializing in premium artisan sausages crafted from a diverse range of meats including chicken, veal, beef, lamb, and spicy jalapeño blends. The brand carries a modern American diner vibe — masculine yet approachable, clean, and high-standard. The shop operates both as a physical store and offers home delivery, emphasizing hygiene and quality. The menu also features signature Dog House burgers, brioche buns, and a curated selection of house-made sauces, creating a full gourmet hot dog and burger experience with a bold, food-porn-worthy aesthetic.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נקניקיות בוטיק פרימיום מבשרים מובחרים, לחמניות בריוש וסושים תוצרת בית — Dog House בקיסריה מגיש חוויית גורמה אמריקאית שלא תשכחו. הזמינו עכשיו!
+
+### סיפור וסטנדרטים
+https://example.com/story-standards
+ב־Dog House האיכות היא לא סיסמה — היא שיטת עבודה. גלו את הסיפור שמאחורי נקניקיות הבוטיק שלנו, חומרי הגלם המובחרים והמחויבות לניקיון ולטעם שאין עליו פשרות.
+
+### גלריה
+https://example.com/gallery
+גלריית Dog House היא חגיגה ויזואלית של נקניקיות בוטיק, המבורגרים עסיסיים ורטבים תוצרת בית. תמונות שיגרמו לכם לרעוב — ולהזמין מיד לביתכם.
+
+### צור קשר
+https://example.com/contact
+רוצים נקניקיות עד הבית או מחפשים אותנו במתחם C Center בקיסריה? צרו קשר עם Dog House עכשיו — משלוחים, שעות פתיחה ופרטים מלאים ממתינים לכם כאן.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Dog House
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Dog House
+
+### Category
+https://example.com/category/:slug
+מוצרים - Dog House
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Dog House
+Dog House is a boutique sausage shop located in the C Center complex in Caesarea, Israel, specializing in premium artisan sausages crafted from a diverse range of meats including chicken, veal, beef, lamb, and spicy jalapeño blends. The brand carries a modern American diner vibe — masculine yet approachable, clean, and high-standard. The shop operates both as a physical store and offers home delivery, emphasizing hygiene and quality. The menu also features signature Dog House burgers, brioche buns, and a curated selection of house-made sauces, creating a full gourmet hot dog and burger experience with a bold, food-porn-worthy aesthetic.
+
+## Services/Products
+- נקניקיות עוף ילדים - 350 גרם / 35 ₪
+- נקניקיית צ'יזי עוף וגבינת צ'דר - 500 גרם / 50 ₪
+- נקניקיית Veal בשר עגל ותבלינים - 500 גרם / 50 ₪
+- נקניקיית Sheep בקר וכבש ושומן כבש - 500 גרם / 55 ₪
+- נקניקיית Spicy בקר עוף וחלפיניו - 500 גרם / 50 ₪
+- המבורגר Dog House 4 קציצות בקר 250 גרם - 85 ₪
+- מארז 6 לחמניות בריוש - 35 ₪
+- מארז רטבי הבית 4 רטבים
+
+## Target Audience
+- אוהבי בשר ואוכל איכותי, לקוחות במתחם C סנטר קיסריה ואזור הסביבה
+- אוהבי בשר קיסריה
+- תיירות קולינרית
+- פודיז מקומיים
+- משפחות מזמינות
+- אוהבי נקניקיות
+
+## Industry
+מזון ומסעדנות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
